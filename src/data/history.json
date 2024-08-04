@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Tech Support Engineer",
+    "organisation": "Yatra Ltd",
+    "startDate": "Nov, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on ITIL,DHCP", "Windows Administration"]
+  },
+  {
+    "role": "Tech Support Engineer",
+    "organisation": "Innovative Digitech Services",
+    "startDate": "Sep, 2021",
+    "endDate": "Oct, 2022",
+    "experiences": [
+      "Worked on Windows 11",
+      "Generating Tickets",
+      "Aliging Engineers of concerned Team to check the issues"
+    ]
+  }
+]

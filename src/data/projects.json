@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Food App",
+    "imageSrc": "projects/project.png",
+    "description": "Implemented features for searching food items and adding them to a cart.",
+    "skills": ["React", "Redux", "Tailwind CSS"],
+    "demo": "https://merry-dasik-ef9d83.netlify.app",
+    "source": "https://github.com/codermpriyanka/FoodApp.git"
+  },
+  {
+    "title": "Quiz App",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an interactive multiple-choice quiz application using React.",
+    "skills": ["React"],
+    "demo": "https://mcqrea.netlify.app",
+    "source": "https://github.com/codermpriyanka/Question.git"
+  },
+  {
+    "title": "Recipe App",
+    "imageSrc": "projects/project.png",
+    "description": "Created a recipe finder application that allows users to search for recipes by entering the name of a dish.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://recipe2024app.netlify.app",
+    "source": "https://github.com/codermpriyanka/Recipe-App.git"
+  }
+]
